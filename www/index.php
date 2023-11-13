@@ -15,7 +15,7 @@ include_once 'includes/mensagem.php';
                 <tr>
                     <th>Nome:</th>
                     <th>Sobrenome:</th>
-                    <th>Email:</th>
+                    <th>Emails:</th>
                     <th>Idade:</th>
                 </tr>
             </thead>
